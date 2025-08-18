@@ -1,0 +1,1581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Super Pansar Versions\\Pkg Version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|e:\\super pansar versions\\pkg version\\windowsformsapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|e:\\super pansar versions\\pkg version\\windowsformsapplication1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|e:\\super pansar versions\\pkg version\\windowsformsapplication1\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApplication1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\super pansar store invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\super pansar store invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\marketledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\marketledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\marketledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\marketledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\marketledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\marketledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\super pansar store invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\super pansar store invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\superpansar store billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\superpansar store billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\super pansar menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\super pansar menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\super pansar menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\super pansar menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\warehousetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\warehousetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\create_adminacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\create_adminacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\warehousetransfer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\warehousetransfer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\warehousetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\warehousetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\marketledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\marketledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\warehouses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\warehouses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\create_adminacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\create_adminacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\creatorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\creatorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\expense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\expense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\manual_entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\manual_entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\manual_entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\manual_entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\hiddeninvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\hiddeninvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\manualproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\manualproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\superpansar store billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\superpansar store billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\superpansar store billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\superpansar store billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\hiddeninvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\hiddeninvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\crystalreport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\crystalreport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\crystalreport1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\crystalreport1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\super pansar menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\super pansar menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\super pansar store invoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\super pansar store invoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\manualproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\manualproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\ledger.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\ledger.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\marketledger.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\marketledger.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\add_goods_to_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\add_goods_to_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\paybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\paybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\add_goods_to_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\add_goods_to_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\add_goods_to_warehouse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\add_goods_to_warehouse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\marketledgerentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\marketledgerentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\create_workeracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\create_workeracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\create_workeracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\create_workeracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\create_workeracc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\create_workeracc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workers_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workers_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workers_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workers_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\create_adminacc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\create_adminacc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workers_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workers_login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\stock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\stock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\paybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\paybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\paybill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\paybill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\creatorinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\creatorinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\creatorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\creatorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workersentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workersentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workersentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workersentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\workersentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\workersentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\manual_entry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\manual_entry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\calcengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\calcengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\additem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\additem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\hiddeninvoices.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\hiddeninvoices.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\manualproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\manualproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|E:\\Super Pansar Versions\\Pkg Version\\windowsformsapplication1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\TestHarness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WindowsFormsApplication1\\TestHarness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|e:\\super pansar versions\\pkg version\\windowsformsapplication1\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{40E5AB24-0DAE-4049-ADC5-C8863E7F590D}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "addItem.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\addItem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\addItem.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\addItem.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\addItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:46:04.047Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarketLedger.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\MarketLedger.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedger.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\MarketLedger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:09:13.171Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\LICENSE.txt",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\LICENSE.txt",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\LICENSE.txt",
+              "RelativeToolTip": "WindowsFormsApplication1\\LICENSE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-18T20:54:55.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\README.md",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\README.md",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\README.md",
+              "RelativeToolTip": "WindowsFormsApplication1\\README.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-18T20:52:30.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\.gitignore",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\.gitignore",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\.gitignore",
+              "RelativeToolTip": "WindowsFormsApplication1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-18T20:29:31.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Filter version - new\\WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeToolTip": "..\\Filter version - new\\WindowsFormsApplication1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:57:27.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "TestHarness.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\TestHarness.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\TestHarness.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\TestHarness.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\TestHarness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:51:08.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowsFormsApplication1",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WindowsFormsApplication1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WindowsFormsApplication1.csproj",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WindowsFormsApplication1.csproj",
+              "RelativeToolTip": "WindowsFormsApplication1\\WindowsFormsApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-02T22:56:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Super Pansar store invoice.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super Pansar store invoice.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Super Pansar store invoice.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super Pansar store invoice.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\Super Pansar store invoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:31:52.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:44:53.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarketLedgerEntry.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedgerEntry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\MarketLedgerEntry.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedgerEntry.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\MarketLedgerEntry.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAUwIoBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:53:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Program.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:56:13.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "settings.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\settings.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\settings.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:30:54.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "settings.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\settings.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\settings.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\settings.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:51:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MarketLedgerEntry.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedgerEntry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\MarketLedgerEntry.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedgerEntry.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\MarketLedgerEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:51:01.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Warehouses.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Warehouses.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Warehouses.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\Warehouses.cs [Design]",
+              "RelativeToolTip": "..\\Filter version - new\\WindowsFormsApplication1\\Warehouses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:05:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Super Pansar store invoice.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super Pansar store invoice.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Super Pansar store invoice.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super Pansar store invoice.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Super Pansar store invoice.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:34:05.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Super pansar menu.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super pansar menu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Super pansar menu.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\Super pansar menu.cs [Design]",
+              "RelativeToolTip": "..\\Filter version - new\\WindowsFormsApplication1\\Super pansar menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:52:39.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SuperPansar store Billing.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\SuperPansar store Billing.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\SuperPansar store Billing.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\SuperPansar store Billing.cs [Design]",
+              "RelativeToolTip": "..\\Filter version - new\\WindowsFormsApplication1\\SuperPansar store Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:59:35.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "settings.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\settings.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\settings.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\settings.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\settings.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAIwMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:52:07.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form4.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version - new\\WindowsFormsApplication1\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\Filter version - new\\WindowsFormsApplication1\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:53:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form4.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form4.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form4.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:24:09.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Super pansar menu.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super pansar menu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Super pansar menu.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super pansar menu.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Super pansar menu.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwHcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:19:30.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WarehouseTransfer.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WarehouseTransfer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WarehouseTransfer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\WarehouseTransfer.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\WarehouseTransfer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:40:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "create_adminAcc.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_adminAcc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\create_adminAcc.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_adminAcc.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\create_adminAcc.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAIA6wF0BAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:39:07.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WarehouseTransfer.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WarehouseTransfer.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WarehouseTransfer.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WarehouseTransfer.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\WarehouseTransfer.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:40:52.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Warehouses.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Warehouses.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Warehouses.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Warehouses.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Warehouses.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAlwFgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:05:12.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MarketLedger.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\MarketLedger.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedger.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\MarketLedger.cs",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAlwPABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:33:28.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WarehouseTransfer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WarehouseTransfer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WarehouseTransfer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WarehouseTransfer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\WarehouseTransfer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:41:08.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Warehouses.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Warehouses.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Warehouses.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Warehouses.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Warehouses.Designer.cs",
+              "ViewState": "AgIAADECAAAAAAAAAAAgwE4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:04:36.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "account.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\account.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\account.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\account.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:53:05.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form2.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:54:05.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:56:04.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "create_adminAcc.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_adminAcc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\create_adminAcc.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\create_adminAcc.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\create_adminAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:38:12.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "creatorInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\creatorInfo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\creatorInfo.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\creatorInfo.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\creatorInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:08:40.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "manual_entry.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\manual_entry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\manual_entry.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\manual_entry.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\manual_entry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:53:28.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "expense.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\expense.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\expense.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\expense.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\expense.Designer.cs",
+              "ViewState": "AgIAALQBAAAAAAAAAAAgwMgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:24:10.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "manual_entry.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\manual_entry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\manual_entry.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\manual_entry.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\manual_entry.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAowDoBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:57:09.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "expense.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\expense.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\expense.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\expense.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\expense.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAkwIEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:24:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "expense.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\expense.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\expense.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\expense.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\expense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:24:00.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManualProduct.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\ManualProduct.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\ManualProduct.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\ManualProduct.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\ManualProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:53:26.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Ledger.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Ledger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Ledger.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Ledger.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Ledger.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA+wDUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:11:29.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Ledger.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Ledger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Ledger.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\Ledger.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\Ledger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:11:26.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HiddenInvoices.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\HiddenInvoices.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\HiddenInvoices.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Filter version\\WindowsFormsApplication1\\HiddenInvoices.cs [Design]",
+              "RelativeToolTip": "..\\Filter version\\WindowsFormsApplication1\\HiddenInvoices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:30:00.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SuperPansar store Billing.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\SuperPansar store Billing.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\SuperPansar store Billing.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\SuperPansar store Billing.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\SuperPansar store Billing.cs",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAQwMUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:03:33.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SuperPansar store Billing.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\SuperPansar store Billing.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\SuperPansar store Billing.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\SuperPansar store Billing.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\SuperPansar store Billing.Designer.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAAAHwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:16.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HiddenInvoices.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\HiddenInvoices.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\HiddenInvoices.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\HiddenInvoices.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\HiddenInvoices.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAqwCABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:38:55.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "addItem.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\addItem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\addItem.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\addItem.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\addItem.cs",
+              "ViewState": "AgIAAIYCAAAAAAAAAAAawJYCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:22:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CrystalReport2.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\CrystalReport2.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport2.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\CrystalReport2.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:43:38.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CrystalReport1.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\CrystalReport1.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport1.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\CrystalReport1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:36:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\CrystalReport1.rpt",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport1.rpt",
+              "RelativeToolTip": "WindowsFormsApplication1\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-31T09:19:39.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CrystalReport2.rpt",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport2.rpt",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\CrystalReport2.rpt",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CrystalReport2.rpt",
+              "RelativeToolTip": "WindowsFormsApplication1\\CrystalReport2.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-31T09:20:11.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Super pansar menu.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super pansar menu.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Super pansar menu.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super pansar menu.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Super pansar menu.Designer.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAuwDMBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:11:54.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ManualProduct.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\ManualProduct.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\ManualProduct.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\ManualProduct.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\ManualProduct.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:09:40.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Super Pansar store invoice.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super Pansar store invoice.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Super Pansar store invoice.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Super Pansar store invoice.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Super Pansar store invoice.Designer.cs",
+              "ViewState": "AgIAAKQDAAAAAAAAAAAqwLsDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:36:24.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "stock.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\stock.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\stock.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\stock.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\stock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:23:37.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "stock.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\stock.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\stock.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\stock.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\stock.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAlwG8BAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:59:20.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Ledger.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Ledger.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Ledger.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Ledger.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Ledger.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwJUBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:30:07.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MarketLedger.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedger.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\MarketLedger.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedger.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\MarketLedger.Designer.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAkwGQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:22:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "add_goods_to_warehouse.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\add_goods_to_warehouse.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\add_goods_to_warehouse.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\add_goods_to_warehouse.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\add_goods_to_warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:10:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PayBill.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\PayBill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\PayBill.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\PayBill.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\PayBill.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:50:51.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "add_goods_to_warehouse.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\add_goods_to_warehouse.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\add_goods_to_warehouse.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\add_goods_to_warehouse.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\add_goods_to_warehouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:09:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "add_goods_to_warehouse.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\add_goods_to_warehouse.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\add_goods_to_warehouse.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\add_goods_to_warehouse.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\add_goods_to_warehouse.Designer.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:09:26.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "account.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\account.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\account.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\account.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\account.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAIwCoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:11:14.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Workers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Workers.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Workers.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Workers.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAuwDoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:57:57.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Workers.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Workers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Workers.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\Workers.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\Workers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:56:45.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Workers.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Workers.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Workers.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Workers.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Workers.Designer.cs",
+              "ViewState": "AgIAAN4BAAAAAAAAAAAYwPABAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:57:11.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MarketLedgerEntry.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedgerEntry.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\MarketLedgerEntry.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\MarketLedgerEntry.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\MarketLedgerEntry.Designer.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAIwL4BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:50:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "create_workerAcc.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_workerAcc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\create_workerAcc.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_workerAcc.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\create_workerAcc.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:07:08.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "create_workerAcc.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_workerAcc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\create_workerAcc.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\create_workerAcc.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\create_workerAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:08:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "create_workerAcc.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_workerAcc.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\create_workerAcc.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_workerAcc.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\create_workerAcc.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0BAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:07:54.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "workers_login.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\workers_login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\workers_login.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\workers_login.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\workers_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:17:00.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form2.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form2.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:54:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "workers_login.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\workers_login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\workers_login.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\workers_login.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\workers_login.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwI0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:17:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form2.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form2.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form2.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:10:49.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Properties\\Resources.resx",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Properties\\Resources.resx",
+              "RelativeToolTip": "WindowsFormsApplication1\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-16T22:11:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "create_adminAcc.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_adminAcc.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\create_adminAcc.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\create_adminAcc.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\create_adminAcc.Designer.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAwwFkBAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:38:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "workers_login.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\workers_login.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\workers_login.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\workers_login.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\workers_login.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwOkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:16:35.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "stock.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\stock.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\stock.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\stock.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\stock.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwKEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:31:56.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PayBill.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\PayBill.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\PayBill.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\PayBill.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\PayBill.Designer.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAUwG4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:08:38.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PayBill.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\PayBill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\PayBill.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\PayBill.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\PayBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:30:45.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "creatorInfo.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\creatorInfo.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\creatorInfo.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\creatorInfo.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\creatorInfo.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:56:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "creatorInfo.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\creatorInfo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\creatorInfo.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\creatorInfo.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\creatorInfo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:56:49.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "WorkersEntry.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WorkersEntry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WorkersEntry.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WorkersEntry.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\WorkersEntry.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:40:55.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "WorkersEntry.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WorkersEntry.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WorkersEntry.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WorkersEntry.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\WorkersEntry.Designer.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAowIABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:32:05.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "WorkersEntry.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\WorkersEntry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\WorkersEntry.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\WorkersEntry.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\WorkersEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:31:29.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\calculator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\calculator.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\calculator.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\calculator.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAqwAcBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:25:14.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "calculator.cs [Design]",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\calculator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\calculator.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\New test - 21\\WindowsFormsApplication1\\calculator.cs [Design]",
+              "RelativeToolTip": "..\\New test - 21\\WindowsFormsApplication1\\calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:23:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "calculator.designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\calculator.designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\calculator.designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\calculator.designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\calculator.designer.cs",
+              "ViewState": "AgIAAJMCAAAAAAAAAAAiwJ8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:37:03.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "account.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\account.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\account.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\account.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\account.Designer.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAYwJUBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:12:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "manual_entry.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\manual_entry.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\manual_entry.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\manual_entry.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\manual_entry.Designer.cs",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAmwNABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:57:21.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CalcEngine.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CalcEngine.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\CalcEngine.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\CalcEngine.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\CalcEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T21:23:17.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "addItem.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\addItem.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\addItem.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\addItem.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\addItem.Designer.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAmwN0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:53:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HiddenInvoices.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\HiddenInvoices.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\HiddenInvoices.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\HiddenInvoices.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\HiddenInvoices.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:13:44.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ManualProduct.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\ManualProduct.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\ManualProduct.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\ManualProduct.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\ManualProduct.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:38:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:02:06.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form4.Designer.cs",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\Form4.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:58:15.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\App.config",
+              "ToolTip": "E:\\Super Pansar Versions\\Pkg Version\\WindowsFormsApplication1\\App.config*",
+              "RelativeToolTip": "WindowsFormsApplication1\\App.config*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-16T19:03:01.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

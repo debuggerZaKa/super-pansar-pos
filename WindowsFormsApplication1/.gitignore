@@ -1,0 +1,48 @@
+﻿# Visual Studio Build Artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+*.nupkg
+*.pdb
+*.cache
+
+# Visual Studio User Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# NuGet and Packages
+[Nn]uget/
+packages/
+*.nupkg
+packages.config.*
+project.lock.json
+
+# SQL and Data Files (from your project)
+*.dacpac
+*.sql
+*.mdf
+*.ldf
+
+# Application Secrets
+*.pfx
+*.cer
+appsettings.*.json
+secrets.json
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+
+# Special Files from Your Project
+WindowsFormsApplication1_3_TemporaryKey.pfx
+WebEssentials2015-Settings.json
+
+# Crystal Reports (if applicable)
+*.rpt

@@ -1,0 +1,18 @@
+﻿
+---
+
+### **LICENSE**
+
+
+Copyright (c) 2025 TahirZaka
+
+This software and associated documentation files (the "Project") are provided 
+for showcase and demonstration purposes ONLY. The Project is not intended for 
+production use and no guarantees are made regarding its functionality or security.
+
+TERMS:
+1. You may view, clone and study the Project for educational purposes.
+2. You may not distribute, sublicense or use the Project in any production environment.
+3. No warranty is provided - the Project is provided "AS IS".
+4. Commercial use is expressly prohibited without written permission.
+5. Any derivative works must retain this license and attribution.
